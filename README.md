@@ -1,4 +1,4 @@
-# Finnish COVID-19 Application Backend
+# Karen detection app backend
 
 ## Contents
 - exposure-notification: The exposure notification service for receiving and distributing infection keys and parameters
